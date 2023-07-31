@@ -6,5 +6,9 @@ public class Num{
     
     System.out.println(1000 + "円");
     System.out.println("金額：" + (1000 + 500));
+    
+    System.out.println(10 - 4);
+    System.out.println(10 * 4);
+    System.out.println(10 / 4);
   }
 }
