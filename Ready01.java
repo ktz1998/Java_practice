@@ -8,6 +8,6 @@ public class Ready01 {
     main...関数名
     (String[] args)...引数・String型の文字列を扱う配列
     */
-    System.out.println("Hello world!");
+    System.out.println("HelloWorld!");
   }
 }
