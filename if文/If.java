@@ -5,5 +5,12 @@ public class If{
       System.out.println("実行されます");
     if (false)
       System.out.println("実行されません");
+    
+    //等値演算子
+    int num = 9;
+    if(num == 10)
+      System.out.println("10と同じ");
+    if(num != 10)
+      System.out.println("10と異なる");
   }
 }
